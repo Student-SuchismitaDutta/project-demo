@@ -1,2 +1,4 @@
 # project-demo
-This is my first Git Repository Author:Suchismita Dutta
+This is my first Git Repository 
+<br>
+Author:Suchismita Dutta
