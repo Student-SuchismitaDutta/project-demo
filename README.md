@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repository 
 <br>
-Author:Suchismita Dutta
+Author:Suchismita (Cu)
